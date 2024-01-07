@@ -1,3 +1,16 @@
+.text {
+  font-size: 15pt;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.btn {
+  border-radius: 10px;
+  width: 25%;
+  height: auto;
+  margin-right: 10px;
+}
+
 .App {
   text-align: center;
 }
